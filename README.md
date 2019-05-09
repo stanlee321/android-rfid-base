@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UHF_AS_New
 新版R2000库使用，读写盘点数据通过回调返回
 
@@ -30,3 +31,7 @@ API文档
 技术支持 电话：155 4266 8023
 
 QQ：2480737278
+=======
+# android-rfid-base
+This is the base project for the RFID app
+>>>>>>> 0d3d66e3e9454d1cbef769e64ef3c2f9a819c864
